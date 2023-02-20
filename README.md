@@ -1,4 +1,4 @@
-# Machine-Learning
+# Snow Flake 
 
 Entity Resolution for banks using NLP
 
